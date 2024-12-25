@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HETALvp
-- 👀 Analyzing data roaming around the world (Data analytics) and mobile tech interests me
-- 🌱 I’m currently learning Flutter App Development
+- 👀 Analyzing data roaming around the world (Data science) and mobile tech interests me
+- 🌱 Growing with Cross Platform App Development
 - 📫 How to reach me hetuparmar98@gmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
